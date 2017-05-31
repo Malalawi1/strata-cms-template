@@ -1,9 +1,8 @@
-+++
-date = "2017-05-31T13:11:51-04:00"
-draft = true
-title = "first"
+---
+date: 2016-09-09T10:24:16-04:00
+title: First Post
+---
 
-Hello ;(
 
-+++
+This is the second post ;/ 
 
